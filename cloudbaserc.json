@@ -1,7 +1,7 @@
 {
   "envId": "{{envId}}",
   "lowcodeCustomComponents": {
-    "name": "mydemo",
+    "name": "stglxt",
     "configRoot": "./src/configs",
     "platformRoot": {
       "web": "./src/web",
